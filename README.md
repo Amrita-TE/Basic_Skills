@@ -1,7 +1,7 @@
 # 🚀 Strict Engineering Discipline Skill for Cursor
 
 ## 📌 Overview
-This repository contains a custom **Cursor skill (`skill.md`)** designed to enforce disciplined, precise, and production-safe AI-assisted development.
+This repository contains a custom **Cursor skill (`Basic_Skill.md`)** designed to enforce disciplined, precise, and production-safe AI-assisted development.
 
 The skill ensures that the agent follows a structured workflow focused on **clarity, minimal changes, and correctness**, reducing errors and unnecessary modifications.
 
